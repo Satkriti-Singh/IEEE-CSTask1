@@ -1,0 +1,50 @@
+*{
+  background-image: url("Background.png");
+}
+.column{
+  float: left;
+  width: 25%;
+  padding-right: 8%;
+
+}
+h1{
+  color: #00FFFF;
+  margin-top: 100px;
+  font-size: 60px;
+  font-family: monospace;
+}
+
+h3{
+  color: #00FFFF;
+  font-size: 30px;
+  font-family: monospace;
+}
+.image2{
+  margin-top: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.image3{
+  float: right;
+  padding: 10px;
+  margin-top: 30px;
+}
+p{
+  color: #FADA5E;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.imagetop{
+  float: right;
+  margin-top: 20px;
+}
+
+.image1{
+  margin-top: 20px;
+}
+
+.middle{
+  margin-left:100px;
+}
